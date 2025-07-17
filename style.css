@@ -26,8 +26,8 @@ section {
 footer.footer {
     background: #004080;
     color: white;
-    padding: 15px 0;
-    text-align: center;
+    padding: 15px 20px; /* Added horizontal padding for spacing */
+    text-align: center;  /* Changed alignment to right */
     font-size: 0.9rem;
     font-weight: 500;
 }
@@ -57,4 +57,3 @@ footer.footer small {
     color: #cfd9e8;
     font-weight: 400;
 }
-
